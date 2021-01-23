@@ -1,0 +1,7 @@
+{
+  id: department.id,
+  name: department.name,
+  manager: department.manager,
+  code: department.code,
+  employees: department.employees
+}
